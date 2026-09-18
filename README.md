@@ -9,6 +9,11 @@ wysokość, prędkość, odległość).
 > lotniczego (to samo źródło, z którego korzysta FlightRadar24). Odbiór jest
 > legalnym, popularnym hobby SDR.
 
+<p align="center">
+  <img src="docs/rtl-sdr.jpg" width="640" alt="Dongiel RTL-SDR (Nooelec NESDR SMArt) z anteną — sprzęt do odbioru ADS-B" /><br>
+  <sub>Cały potrzebny sprzęt: dongiel RTL-SDR (tu Nooelec NESDR SMArt) + antena na 1090 MHz.</sub>
+</p>
+
 ## Jak wygląda
 
 Radar centrowany na Twojej pozycji, blipy = samoloty (im dalej od środka, tym
